@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @acai-boop
+- 👀 I’m interested in data driven initiatives through data processing and visualization tools to drive business success
+- 🌱 I’m currently learning Data Science at Northeastern University
+- 💞️ I’m looking to collaborate on machine learning and data analysis projects to develop my skills even further!
+- 📫 How to reach me cai.and@northeastern.edu
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I pivoted my career my Materials Science and Engineering to Data Science!
