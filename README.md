@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on machine learning and data analysis projects to develop my skills even further!
 - 📫 How to reach me cai.and@northeastern.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I pivoted my career my Materials Science and Engineering to Data Science!
+- ⚡ Fun fact: I pivoted my career from Materials Science and Engineering to Data Science!
